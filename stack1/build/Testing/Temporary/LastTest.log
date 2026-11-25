@@ -1,0 +1,1002 @@
+Start testing: Nov 25 21:27 MSK
+----------------------------------------------------------
+1/37 Testing: Constness.Test
+1/37 Test: Constness.Test
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=Constness.Test" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"Constness.Test" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Constness.Test
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Constness
+[ RUN      ] Constness.Test
+[       OK ] Constness.Test (0 ms)
+[----------] 1 test from Constness (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Constness.Test" end time: Nov 25 21:27 MSK
+"Constness.Test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/37 Testing: StackTest.SimpleTop
+2/37 Test: StackTest.SimpleTop
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.SimpleTop" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.SimpleTop" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.SimpleTop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.SimpleTop
+[       OK ] StackTest.SimpleTop (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.SimpleTop" end time: Nov 25 21:27 MSK
+"StackTest.SimpleTop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/37 Testing: StackTest.DoublePush
+3/37 Test: StackTest.DoublePush
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.DoublePush" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.DoublePush" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.DoublePush
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.DoublePush
+[       OK ] StackTest.DoublePush (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.DoublePush" end time: Nov 25 21:27 MSK
+"StackTest.DoublePush" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/37 Testing: StackTest.EmptyPop
+4/37 Test: StackTest.EmptyPop
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.EmptyPop" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.EmptyPop" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.EmptyPop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.EmptyPop
+[       OK ] StackTest.EmptyPop (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.EmptyPop" end time: Nov 25 21:27 MSK
+"StackTest.EmptyPop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/37 Testing: StackTest.PeekAfterSingleInsert
+5/37 Test: StackTest.PeekAfterSingleInsert
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.PeekAfterSingleInsert" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.PeekAfterSingleInsert" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.PeekAfterSingleInsert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PeekAfterSingleInsert
+[       OK ] StackTest.PeekAfterSingleInsert (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PeekAfterSingleInsert" end time: Nov 25 21:27 MSK
+"StackTest.PeekAfterSingleInsert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/37 Testing: StackTest.SizeTracksGrowth
+6/37 Test: StackTest.SizeTracksGrowth
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.SizeTracksGrowth" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.SizeTracksGrowth" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.SizeTracksGrowth
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.SizeTracksGrowth
+[       OK ] StackTest.SizeTracksGrowth (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.SizeTracksGrowth" end time: Nov 25 21:27 MSK
+"StackTest.SizeTracksGrowth" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/37 Testing: StackTest.InterleavedOpsWithClear
+7/37 Test: StackTest.InterleavedOpsWithClear
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.InterleavedOpsWithClear" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.InterleavedOpsWithClear" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.InterleavedOpsWithClear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.InterleavedOpsWithClear
+[       OK ] StackTest.InterleavedOpsWithClear (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.InterleavedOpsWithClear" end time: Nov 25 21:27 MSK
+"StackTest.InterleavedOpsWithClear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/37 Testing: StackTest.PopLIFO
+8/37 Test: StackTest.PopLIFO
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.PopLIFO" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.PopLIFO" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.PopLIFO
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PopLIFO
+[       OK ] StackTest.PopLIFO (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PopLIFO" end time: Nov 25 21:27 MSK
+"StackTest.PopLIFO" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/37 Testing: StackTest.AllOperationsOneObject
+9/37 Test: StackTest.AllOperationsOneObject
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.AllOperationsOneObject" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.AllOperationsOneObject" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.AllOperationsOneObject
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.AllOperationsOneObject
+[       OK ] StackTest.AllOperationsOneObject (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.AllOperationsOneObject" end time: Nov 25 21:27 MSK
+"StackTest.AllOperationsOneObject" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/37 Testing: StackTest.PeekShiftsAfterRemoval
+10/37 Test: StackTest.PeekShiftsAfterRemoval
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.PeekShiftsAfterRemoval" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.PeekShiftsAfterRemoval" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.PeekShiftsAfterRemoval
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PeekShiftsAfterRemoval
+[       OK ] StackTest.PeekShiftsAfterRemoval (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PeekShiftsAfterRemoval" end time: Nov 25 21:27 MSK
+"StackTest.PeekShiftsAfterRemoval" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/37 Testing: StackTest.ClearResetsCount
+11/37 Test: StackTest.ClearResetsCount
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.ClearResetsCount" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.ClearResetsCount" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.ClearResetsCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.ClearResetsCount
+[       OK ] StackTest.ClearResetsCount (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.ClearResetsCount" end time: Nov 25 21:27 MSK
+"StackTest.ClearResetsCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/37 Testing: StackTest.RemovesInReverse
+12/37 Test: StackTest.RemovesInReverse
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.RemovesInReverse" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.RemovesInReverse" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.RemovesInReverse
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.RemovesInReverse
+[       OK ] StackTest.RemovesInReverse (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.RemovesInReverse" end time: Nov 25 21:27 MSK
+"StackTest.RemovesInReverse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/37 Testing: StackTest.SizeStaysZeroOnEmpty
+13/37 Test: StackTest.SizeStaysZeroOnEmpty
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.SizeStaysZeroOnEmpty" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.SizeStaysZeroOnEmpty" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.SizeStaysZeroOnEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.SizeStaysZeroOnEmpty
+[       OK ] StackTest.SizeStaysZeroOnEmpty (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.SizeStaysZeroOnEmpty" end time: Nov 25 21:27 MSK
+"StackTest.SizeStaysZeroOnEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/37 Testing: StackTest.PeekThenClear
+14/37 Test: StackTest.PeekThenClear
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.PeekThenClear" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.PeekThenClear" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.PeekThenClear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PeekThenClear
+[       OK ] StackTest.PeekThenClear (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PeekThenClear" end time: Nov 25 21:27 MSK
+"StackTest.PeekThenClear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/37 Testing: StackTest.ExtraPop
+15/37 Test: StackTest.ExtraPop
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.ExtraPop" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.ExtraPop" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.ExtraPop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.ExtraPop
+[       OK ] StackTest.ExtraPop (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.ExtraPop" end time: Nov 25 21:27 MSK
+"StackTest.ExtraPop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/37 Testing: StackTest.Duplicats
+16/37 Test: StackTest.Duplicats
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.Duplicats" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.Duplicats" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Duplicats
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Duplicats
+[       OK ] StackTest.Duplicats (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.Duplicats" end time: Nov 25 21:27 MSK
+"StackTest.Duplicats" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/37 Testing: StackTest.CountOneTwoMany
+17/37 Test: StackTest.CountOneTwoMany
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.CountOneTwoMany" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.CountOneTwoMany" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.CountOneTwoMany
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.CountOneTwoMany
+[       OK ] StackTest.CountOneTwoMany (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.CountOneTwoMany" end time: Nov 25 21:27 MSK
+"StackTest.CountOneTwoMany" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/37 Testing: StackTest.TopTopTop
+18/37 Test: StackTest.TopTopTop
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.TopTopTop" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.TopTopTop" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.TopTopTop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.TopTopTop
+[       OK ] StackTest.TopTopTop (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.TopTopTop" end time: Nov 25 21:27 MSK
+"StackTest.TopTopTop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/37 Testing: StackTest.ClearOnEmptyThenUse
+19/37 Test: StackTest.ClearOnEmptyThenUse
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.ClearOnEmptyThenUse" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.ClearOnEmptyThenUse" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.ClearOnEmptyThenUse
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.ClearOnEmptyThenUse
+[       OK ] StackTest.ClearOnEmptyThenUse (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.ClearOnEmptyThenUse" end time: Nov 25 21:27 MSK
+"StackTest.ClearOnEmptyThenUse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/37 Testing: StackTest.NotReallyLongTokens
+20/37 Test: StackTest.NotReallyLongTokens
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.NotReallyLongTokens" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.NotReallyLongTokens" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.NotReallyLongTokens
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.NotReallyLongTokens
+[       OK ] StackTest.NotReallyLongTokens (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.NotReallyLongTokens" end time: Nov 25 21:27 MSK
+"StackTest.NotReallyLongTokens" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/37 Testing: StackTest.RemnantCountAfterPops
+21/37 Test: StackTest.RemnantCountAfterPops
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.RemnantCountAfterPops" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.RemnantCountAfterPops" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.RemnantCountAfterPops
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.RemnantCountAfterPops
+[       OK ] StackTest.RemnantCountAfterPops (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.RemnantCountAfterPops" end time: Nov 25 21:27 MSK
+"StackTest.RemnantCountAfterPops" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/37 Testing: StackTest.UpDownSizes
+22/37 Test: StackTest.UpDownSizes
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.UpDownSizes" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.UpDownSizes" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.UpDownSizes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.UpDownSizes
+[       OK ] StackTest.UpDownSizes (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.UpDownSizes" end time: Nov 25 21:27 MSK
+"StackTest.UpDownSizes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/37 Testing: StackTest.PopOrTop_thatisthequestion
+23/37 Test: StackTest.PopOrTop_thatisthequestion
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.PopOrTop_thatisthequestion" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.PopOrTop_thatisthequestion" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.PopOrTop_thatisthequestion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PopOrTop_thatisthequestion
+[       OK ] StackTest.PopOrTop_thatisthequestion (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PopOrTop_thatisthequestion" end time: Nov 25 21:27 MSK
+"StackTest.PopOrTop_thatisthequestion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/37 Testing: StackTest.ClearPush
+24/37 Test: StackTest.ClearPush
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.ClearPush" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.ClearPush" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.ClearPush
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.ClearPush
+[       OK ] StackTest.ClearPush (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.ClearPush" end time: Nov 25 21:27 MSK
+"StackTest.ClearPush" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/37 Testing: StackTest.Exhaust
+25/37 Test: StackTest.Exhaust
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.Exhaust" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.Exhaust" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Exhaust
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Exhaust
+[       OK ] StackTest.Exhaust (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.Exhaust" end time: Nov 25 21:27 MSK
+"StackTest.Exhaust" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/37 Testing: StackTest.PeekClear
+26/37 Test: StackTest.PeekClear
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.PeekClear" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.PeekClear" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.PeekClear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PeekClear
+[       OK ] StackTest.PeekClear (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PeekClear" end time: Nov 25 21:27 MSK
+"StackTest.PeekClear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/37 Testing: StackTest.SizeAroundRemoval
+27/37 Test: StackTest.SizeAroundRemoval
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.SizeAroundRemoval" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.SizeAroundRemoval" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.SizeAroundRemoval
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.SizeAroundRemoval
+[       OK ] StackTest.SizeAroundRemoval (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.SizeAroundRemoval" end time: Nov 25 21:27 MSK
+"StackTest.SizeAroundRemoval" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/37 Testing: StackTest.SizePop
+28/37 Test: StackTest.SizePop
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.SizePop" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.SizePop" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.SizePop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.SizePop
+[       OK ] StackTest.SizePop (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.SizePop" end time: Nov 25 21:27 MSK
+"StackTest.SizePop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/37 Testing: StackTest.PeekClear_2
+29/37 Test: StackTest.PeekClear_2
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.PeekClear_2" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.PeekClear_2" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.PeekClear_2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PeekClear_2
+[       OK ] StackTest.PeekClear_2 (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PeekClear_2" end time: Nov 25 21:27 MSK
+"StackTest.PeekClear_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/37 Testing: StackTest.ClearInMid
+30/37 Test: StackTest.ClearInMid
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.ClearInMid" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.ClearInMid" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.ClearInMid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.ClearInMid
+[       OK ] StackTest.ClearInMid (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.ClearInMid" end time: Nov 25 21:27 MSK
+"StackTest.ClearInMid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/37 Testing: StackTest.PopOrTop_thatisthequestion_2
+31/37 Test: StackTest.PopOrTop_thatisthequestion_2
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.PopOrTop_thatisthequestion_2" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.PopOrTop_thatisthequestion_2" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.PopOrTop_thatisthequestion_2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PopOrTop_thatisthequestion_2
+[       OK ] StackTest.PopOrTop_thatisthequestion_2 (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PopOrTop_thatisthequestion_2" end time: Nov 25 21:27 MSK
+"StackTest.PopOrTop_thatisthequestion_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/37 Testing: StackTest.MidSizedToken_Put
+32/37 Test: StackTest.MidSizedToken_Put
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.MidSizedToken_Put" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.MidSizedToken_Put" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.MidSizedToken_Put
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.MidSizedToken_Put
+[       OK ] StackTest.MidSizedToken_Put (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.MidSizedToken_Put" end time: Nov 25 21:27 MSK
+"StackTest.MidSizedToken_Put" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/37 Testing: StackTest.HugeToken_Put
+33/37 Test: StackTest.HugeToken_Put
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.HugeToken_Put" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.HugeToken_Put" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.HugeToken_Put
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.HugeToken_Put
+[       OK ] StackTest.HugeToken_Put (1 ms)
+[----------] 1 test from StackTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.HugeToken_Put" end time: Nov 25 21:27 MSK
+"StackTest.HugeToken_Put" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/37 Testing: StackTest.MidSizedToken_Peek
+34/37 Test: StackTest.MidSizedToken_Peek
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.MidSizedToken_Peek" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.MidSizedToken_Peek" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.MidSizedToken_Peek
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.MidSizedToken_Peek
+[       OK ] StackTest.MidSizedToken_Peek (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.MidSizedToken_Peek" end time: Nov 25 21:27 MSK
+"StackTest.MidSizedToken_Peek" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/37 Testing: StackTest.HugeToken_Peek
+35/37 Test: StackTest.HugeToken_Peek
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.HugeToken_Peek" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.HugeToken_Peek" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.HugeToken_Peek
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.HugeToken_Peek
+[       OK ] StackTest.HugeToken_Peek (1 ms)
+[----------] 1 test from StackTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.HugeToken_Peek" end time: Nov 25 21:27 MSK
+"StackTest.HugeToken_Peek" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/37 Testing: StackTest.Hang
+36/37 Test: StackTest.Hang
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.Hang" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.Hang" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Hang
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Hang
+[       OK ] StackTest.Hang (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.Hang" end time: Nov 25 21:27 MSK
+"StackTest.Hang" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/37 Testing: StackTest.Changed
+37/37 Test: StackTest.Changed
+Command: "/home/vito/prac_c++/homework/stack1/build/test_stack" "--gtest_filter=StackTest.Changed" "--gtest_also_run_disabled_tests"
+Directory: /home/vito/prac_c++/homework/stack1/build
+"StackTest.Changed" start time: Nov 25 21:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/vito/prac_c++/homework/stack1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Changed
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Changed
+[       OK ] StackTest.Changed (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.Changed" end time: Nov 25 21:27 MSK
+"StackTest.Changed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 25 21:27 MSK

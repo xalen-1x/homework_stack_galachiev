@@ -1,0 +1,203 @@
+{
+  "tests": 37,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "Constness",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "Test",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 11
+        }
+      ]
+    },
+    {
+      "name": "StackTest",
+      "tests": 36,
+      "testsuite": [
+        {
+          "name": "SimpleTop",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 26
+        },
+        {
+          "name": "DoublePush",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 35
+        },
+        {
+          "name": "EmptyPop",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 48
+        },
+        {
+          "name": "PeekAfterSingleInsert",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 53
+        },
+        {
+          "name": "SizeTracksGrowth",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 60
+        },
+        {
+          "name": "InterleavedOpsWithClear",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 74
+        },
+        {
+          "name": "PopLIFO",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 96
+        },
+        {
+          "name": "AllOperationsOneObject",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 108
+        },
+        {
+          "name": "PeekShiftsAfterRemoval",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 118
+        },
+        {
+          "name": "ClearResetsCount",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 131
+        },
+        {
+          "name": "RemovesInReverse",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 141
+        },
+        {
+          "name": "SizeStaysZeroOnEmpty",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 157
+        },
+        {
+          "name": "PeekThenClear",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 163
+        },
+        {
+          "name": "ExtraPop",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 174
+        },
+        {
+          "name": "Duplicats",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 184
+        },
+        {
+          "name": "CountOneTwoMany",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 197
+        },
+        {
+          "name": "TopTopTop",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 216
+        },
+        {
+          "name": "ClearOnEmptyThenUse",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 229
+        },
+        {
+          "name": "NotReallyLongTokens",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 238
+        },
+        {
+          "name": "RemnantCountAfterPops",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 250
+        },
+        {
+          "name": "UpDownSizes",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 265
+        },
+        {
+          "name": "PopOrTop_thatisthequestion",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 275
+        },
+        {
+          "name": "ClearPush",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 288
+        },
+        {
+          "name": "Exhaust",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 300
+        },
+        {
+          "name": "PeekClear",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 317
+        },
+        {
+          "name": "SizeAroundRemoval",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 328
+        },
+        {
+          "name": "SizePop",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 338
+        },
+        {
+          "name": "PeekClear_2",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 355
+        },
+        {
+          "name": "ClearInMid",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 366
+        },
+        {
+          "name": "PopOrTop_thatisthequestion_2",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 379
+        },
+        {
+          "name": "MidSizedToken_Put",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 396
+        },
+        {
+          "name": "HugeToken_Put",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 409
+        },
+        {
+          "name": "MidSizedToken_Peek",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 422
+        },
+        {
+          "name": "HugeToken_Peek",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 434
+        },
+        {
+          "name": "Hang",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 449
+        },
+        {
+          "name": "Changed",
+          "file": "\/home\/vito\/prac_c++\/homework\/stack1\/tests\/test.cpp",
+          "line": 464
+        }
+      ]
+    }
+  ]
+}

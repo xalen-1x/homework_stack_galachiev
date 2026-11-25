@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address -Wl,--dependency-file=CMakeFiles/play_stack.dir/link.d CMakeFiles/play_stack.dir/play/main.cpp.o -o play_stack

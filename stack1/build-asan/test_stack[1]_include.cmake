@@ -1,0 +1,5 @@
+if(EXISTS "/home/vito/prac_c++/homework/stack1/build-asan/test_stack[1]_tests.cmake")
+  include("/home/vito/prac_c++/homework/stack1/build-asan/test_stack[1]_tests.cmake")
+else()
+  add_test(test_stack_NOT_BUILT test_stack_NOT_BUILT)
+endif()

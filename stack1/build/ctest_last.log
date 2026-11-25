@@ -1,0 +1,79 @@
+Test project /home/vito/prac_c++/homework/stack1/build
+      Start  1: Constness.Test
+ 1/37 Test  #1: Constness.Test ...........................   Passed    0.00 sec
+      Start  2: StackTest.SimpleTop
+ 2/37 Test  #2: StackTest.SimpleTop ......................   Passed    0.00 sec
+      Start  3: StackTest.DoublePush
+ 3/37 Test  #3: StackTest.DoublePush .....................   Passed    0.00 sec
+      Start  4: StackTest.EmptyPop
+ 4/37 Test  #4: StackTest.EmptyPop .......................   Passed    0.00 sec
+      Start  5: StackTest.PeekAfterSingleInsert
+ 5/37 Test  #5: StackTest.PeekAfterSingleInsert ..........   Passed    0.00 sec
+      Start  6: StackTest.SizeTracksGrowth
+ 6/37 Test  #6: StackTest.SizeTracksGrowth ...............   Passed    0.00 sec
+      Start  7: StackTest.InterleavedOpsWithClear
+ 7/37 Test  #7: StackTest.InterleavedOpsWithClear ........   Passed    0.00 sec
+      Start  8: StackTest.PopLIFO
+ 8/37 Test  #8: StackTest.PopLIFO ........................   Passed    0.00 sec
+      Start  9: StackTest.AllOperationsOneObject
+ 9/37 Test  #9: StackTest.AllOperationsOneObject .........   Passed    0.00 sec
+      Start 10: StackTest.PeekShiftsAfterRemoval
+10/37 Test #10: StackTest.PeekShiftsAfterRemoval .........   Passed    0.00 sec
+      Start 11: StackTest.ClearResetsCount
+11/37 Test #11: StackTest.ClearResetsCount ...............   Passed    0.00 sec
+      Start 12: StackTest.RemovesInReverse
+12/37 Test #12: StackTest.RemovesInReverse ...............   Passed    0.00 sec
+      Start 13: StackTest.SizeStaysZeroOnEmpty
+13/37 Test #13: StackTest.SizeStaysZeroOnEmpty ...........   Passed    0.00 sec
+      Start 14: StackTest.PeekThenClear
+14/37 Test #14: StackTest.PeekThenClear ..................   Passed    0.00 sec
+      Start 15: StackTest.ExtraPop
+15/37 Test #15: StackTest.ExtraPop .......................   Passed    0.00 sec
+      Start 16: StackTest.Duplicats
+16/37 Test #16: StackTest.Duplicats ......................   Passed    0.00 sec
+      Start 17: StackTest.CountOneTwoMany
+17/37 Test #17: StackTest.CountOneTwoMany ................   Passed    0.00 sec
+      Start 18: StackTest.TopTopTop
+18/37 Test #18: StackTest.TopTopTop ......................   Passed    0.00 sec
+      Start 19: StackTest.ClearOnEmptyThenUse
+19/37 Test #19: StackTest.ClearOnEmptyThenUse ............   Passed    0.00 sec
+      Start 20: StackTest.NotReallyLongTokens
+20/37 Test #20: StackTest.NotReallyLongTokens ............   Passed    0.00 sec
+      Start 21: StackTest.RemnantCountAfterPops
+21/37 Test #21: StackTest.RemnantCountAfterPops ..........   Passed    0.00 sec
+      Start 22: StackTest.UpDownSizes
+22/37 Test #22: StackTest.UpDownSizes ....................   Passed    0.00 sec
+      Start 23: StackTest.PopOrTop_thatisthequestion
+23/37 Test #23: StackTest.PopOrTop_thatisthequestion .....   Passed    0.00 sec
+      Start 24: StackTest.ClearPush
+24/37 Test #24: StackTest.ClearPush ......................   Passed    0.00 sec
+      Start 25: StackTest.Exhaust
+25/37 Test #25: StackTest.Exhaust ........................   Passed    0.00 sec
+      Start 26: StackTest.PeekClear
+26/37 Test #26: StackTest.PeekClear ......................   Passed    0.00 sec
+      Start 27: StackTest.SizeAroundRemoval
+27/37 Test #27: StackTest.SizeAroundRemoval ..............   Passed    0.00 sec
+      Start 28: StackTest.SizePop
+28/37 Test #28: StackTest.SizePop ........................   Passed    0.00 sec
+      Start 29: StackTest.PeekClear_2
+29/37 Test #29: StackTest.PeekClear_2 ....................   Passed    0.00 sec
+      Start 30: StackTest.ClearInMid
+30/37 Test #30: StackTest.ClearInMid .....................   Passed    0.00 sec
+      Start 31: StackTest.PopOrTop_thatisthequestion_2
+31/37 Test #31: StackTest.PopOrTop_thatisthequestion_2 ...   Passed    0.00 sec
+      Start 32: StackTest.MidSizedToken_Put
+32/37 Test #32: StackTest.MidSizedToken_Put ..............   Passed    0.00 sec
+      Start 33: StackTest.HugeToken_Put
+33/37 Test #33: StackTest.HugeToken_Put ..................   Passed    0.00 sec
+      Start 34: StackTest.MidSizedToken_Peek
+34/37 Test #34: StackTest.MidSizedToken_Peek .............   Passed    0.00 sec
+      Start 35: StackTest.HugeToken_Peek
+35/37 Test #35: StackTest.HugeToken_Peek .................   Passed    0.00 sec
+      Start 36: StackTest.Hang
+36/37 Test #36: StackTest.Hang ...........................   Passed    0.00 sec
+      Start 37: StackTest.Changed
+37/37 Test #37: StackTest.Changed ........................   Passed    0.00 sec
+
+[0;32m100% tests passed[0;0m, 0 tests failed[0;0m out of 37
+
+Total Test time (real) =   0.11 sec

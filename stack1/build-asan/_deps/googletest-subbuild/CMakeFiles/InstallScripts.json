@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/vito/prac_c++/homework/stack1/build-asan/_deps/googletest-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
