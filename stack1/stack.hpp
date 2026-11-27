@@ -1,4 +1,3 @@
-#pragma once
 #include <cstring>
 
 struct Node {
@@ -7,25 +6,11 @@ struct Node {
 };
 
 struct Stack {
-  Node* head;
-  std::size_t size;
-
-  Stack() {
-    head = nullptr;
-    size = 0;
-  }
-
-  ~Stack() {
-    while (head != nullptr) {
-      Node* temp = head;
-      head = head->next;
-      delete[] temp->data;
-      delete temp;
-    }
-  }
+  Node* head = nullptr;
+  std::size_t size = 0;
 };
 
-inline void Push(Stack* stack, const char* str) {
+void Push(Stack* stack, const char* str) {
   if (stack == nullptr || str == nullptr) {
     return;
   }
@@ -37,7 +22,7 @@ inline void Push(Stack* stack, const char* str) {
   stack->size++;
 }
 
-inline void Pop(Stack* stack) {
+void Pop(Stack* stack) {
   if (stack != nullptr && stack->head != nullptr) {
     Node* temp = stack->head;
     stack->head = stack->head->next;
@@ -47,22 +32,25 @@ inline void Pop(Stack* stack) {
   }
 }
 
-inline const char* Top(const Stack* stack) {
+const char* Top(const Stack* stack) {
   if (stack == nullptr || stack->head == nullptr) {
     return nullptr;
   }
   return stack->head->data;
 }
 
-inline std::size_t Size(const Stack* stack) {
+std::size_t Size(const Stack* stack) {
   if (stack == nullptr) {
     return 0;
   }
   return stack->size;
 }
 
-inline void Clear(Stack* stack) {
+void Clear(Stack* stack) {
   while (stack->head != nullptr) {
     Pop(stack); 
   }
 }
+
+
+
